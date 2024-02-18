@@ -10,7 +10,7 @@ This is an Automation project using Selenium Webdriver 4.11 version and MVN
  Or directly in the IDE by selecting run Java while on the .java file
 
  - 1. Go to site
- - 2. Search for "stainless work table"
+ - 2. Search for items
  - 3. Check the search result ensuring every product has the word 'Table' in its title.
  - 4. Add the last of found items to Cart.
  - 5. Empty Cart.
