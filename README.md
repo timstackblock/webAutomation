@@ -1,7 +1,7 @@
 
-# Selenium 4 - UI Tests Project
+# Selenium 4 - UI Tests 
 
-This is an Automation project using Selenium Webdriver 4.11 version and MVN
+This is simple Automation using Selenium Webdriver 4.11 version and MVN
 
 
 
